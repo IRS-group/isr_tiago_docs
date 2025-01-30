@@ -1,0 +1,3 @@
+[submodule "isr_tiago_docs.wiki"]
+	path = isr_tiago_docs.wiki
+	url = https://github.com/IRS-group/isr_tiago_docs.wiki.git
